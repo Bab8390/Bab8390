@@ -1,4 +1,3 @@
-<!-- Parte superior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Bem-vindo!&fontColor=00000"/>
 
 ---
@@ -14,9 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bab8390&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bab8390&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
-
-
-   <!-- Distintivos de Linguagens e Habilidades -->
+    
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -33,7 +30,7 @@
 
 <div align="center"> 
   <a href="https://instagram.com/menezes_bab.png" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lisboagab@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lisboagab@outlook.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF"></a>
   <a href="https://www.linkedin.com/in/gabriel-menezes-lisboa-ferreira-a13933237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
