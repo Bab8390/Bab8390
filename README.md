@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/gabriel-menezes-lisboa-ferreira-a13933237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <div align="center">
-  <img src="https://i.imgur.com/NluSkM5.gif">
+  <br><img src="https://i.imgur.com/NluSkM5.gif">
 </div>
 <!-- <picture align="center" >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bab8390/Bab8390/output/github-contribution-grid-snake-dark.svg">
