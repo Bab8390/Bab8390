@@ -32,9 +32,10 @@
   <a href="https://instagram.com/menezes_bab.png" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lisboagab@outlook.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF"></a>
   <a href="https://www.linkedin.com/in/gabriel-menezes-lisboa-ferreira-a13933237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
-
+<div align="center">
+  <img src="https://i.imgur.com/NluSkM5.gif">
+</div>
 <!-- <picture align="center" >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bab8390/Bab8390/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bab8390/Bab8390/output/github-contribution-grid-snake-dark.svg">
