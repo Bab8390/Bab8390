@@ -35,11 +35,12 @@
   
 </div>
 
-<picture align="center" >
+<!-- <picture align="center" >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bab8390/Bab8390/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bab8390/Bab8390/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bab8390/Bab8390/output/github-contribution-grid-snake.svg">
 </picture>
+-->
 
 <footer>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Até%20mais👋&fontColor=00000&section=footer"/>
