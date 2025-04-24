@@ -4,7 +4,7 @@
 <div align="center">
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Olá, Mundo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou o Gabriel Menezes
- 👩🏻‍💻 Sou um desenvolvedor fullstack<br>
+ 👩🏻‍💻 Sou um desenvolvedor em aprendizado<br>
  ⚡ Cursando SI na USP/EACH<br>
 </div>
 
@@ -20,6 +20,7 @@
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Gabriel-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c#/c#-original.svg">
 </div>
  <br>
 <div align="center">
