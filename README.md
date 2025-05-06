@@ -37,12 +37,10 @@
 <div align="center">
   <br><img src="https://media2.giphy.com/media/Wb39oHDV31r6wwCwjy/giphy.gif?cid=6c09b952fzw9cccgt8guhdces0eevkuxru7cozzj0nnmdl8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 </div>
-<picture align="center" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bab8390/Bab8390/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bab8390/Bab8390/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bab8390/Bab8390/output/github-contribution-grid-snake.svg">
-</picture>
-
+<!-- <div>
+  <img align="center" alt="Gráfico 3D" src="https://github.com/Bab8390/Bab8390/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+</div> --!>
+  
 <footer>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Até%20mais👋&fontColor=00000&section=footer"/>
 </footer>
